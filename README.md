@@ -11,6 +11,8 @@ The included Python script retrieves the book of Proverbs (KJV), performs
 word-frequency analysis with stop-word filtering, and generates a chart of the
 most prominent thematic terms.
 
+![Top 10 key themes in Proverbs (KJV)](Figure_1.png)
+
 ---
 
 ## What This Example Demonstrates
