@@ -4,7 +4,7 @@ import re
 from collections import Counter
 import matplotlib.pyplot as plt
 
-API_BASE = "https://holybible.dev/api"
+API_BASE = "https://holybible.dev/api/scripture"
 API_KEY = os.getenv("BIBLEBRIDGE_API_KEY")
 
 if not API_KEY:
