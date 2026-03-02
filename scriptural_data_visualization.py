@@ -45,7 +45,7 @@ for chapter in range(1, CHAPTERS + 1):
         API_BASE,
         headers=HEADERS,
         params={
-            "bookID": BOOK_ID,
+            "book_id": BOOK_ID,
             "chapter": chapter,
             "version": VERSION
         },
